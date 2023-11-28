@@ -1,0 +1,25 @@
+
+
+PYTHON FEATURES
+  
+
+   1. INTREPUTED 
+  
+
+  there is know need to compilation and excuted  it run direct with source code 
+
+
+            --------->
+    PYTHON [COMPILER ] BYTECODES -----> RUN ON COMPUTER.
+
+
+    2. PLATFORM INDEPENDENT 
+ it can develope and excuted on multiple operating system .
+ 
+   3. OPEN SOURCE .
+  free to assces and use ."anyone can use free of cost "
+
+
+4.SIMPLE 
+it is easy to learn and simalar to english alphabate 
+

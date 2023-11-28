@@ -1,0 +1,13 @@
+DATA TYPE IN PYTHON
+
+
+
+1.  INT 
+it is use with number without decimal values.
+
+2. FLOAT
+it is use with number having decimal values.
+
+3.STRING
+it uses alphabate character 
+we write string values insite "" and ''.

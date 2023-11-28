@@ -1,0 +1,19 @@
+python :
+It is high level gernal purpose programing language 
+latest version(3.1)
+use :
+1. web development (use by Youtube ,Instagram ,Dropbox  )
+2. machine learning
+3.AI
+4. machine learning Application
+5. Image processing (openCv, pillow)
+6.web Scraping (used for extracting data from website )
+
+
+
+
+
+
+\\
+Windows: There are many interpreters available freely to run Python scripts like IDLE (Integrated Development Environment) 
+that comes bundled with the Python software downloaded from http://python.org/.

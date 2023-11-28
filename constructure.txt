@@ -1,0 +1,6 @@
+CONSTRUCTURE IN PYTHON 
+
+    IT is used to instantiating an object 
+     
+    the task of constructure is to initalize or assign value to 
+    the data member of class when object of class is created .
