@@ -1,0 +1,30 @@
+
+
+
+
+
+select concat(name, '(',left(occupation,1),')') 
+from occupations 
+order by name asc;
+
+select 'There are a total of ' ,count(occupation) ,concat(lower(occupation), 's.') 
+from occupations
+group by occupation 
+order by count(occupation) asc, occupation asc;
+
+
+
+### i have to update the column name where name =m then f vice versa 
+
+
+UPDATE salary SET sex =
+CASE sex
+    WHEN 'm' THEN 'f'
+    ELSE 'm'
+END;
+
+
+
+### use for finding the count greater than 3 
+select actor_id, director_id from ActorDirector group by actor_id
+having count(timestamp)>=3
