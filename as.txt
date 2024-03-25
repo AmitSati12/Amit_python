@@ -28,3 +28,8 @@ END;
 ### use for finding the count greater than 3 
 select actor_id, director_id from ActorDirector group by actor_id
 having count(timestamp)>=3
+
+
+
+####### replace and typecasting used in below quere 
+SELECT CEIL((AVG(salary)) - (AVG(REPLACE(salary, '0', '')))) AS avg_salary FROM employees;
